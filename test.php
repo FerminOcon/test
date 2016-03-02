@@ -1,1 +1,4 @@
-this is a test commit 
+<?php
+echo 'this is a test message this is a test message';
+
+?>
